@@ -33,6 +33,10 @@ Use these skills with AI coding assistants such as Claude Code, GitHub Copilot, 
 
 - [Python Refactor & Standards](python-refactor-and-standards/) — Write and refactor Python code to be clean, safe, well-typed, and testable without changing behavior.
 
+### Testing
+
+- [Test Generation](test-generation/) — Create focused, deterministic tests for normal behavior, boundaries, invalid input, and failure paths.
+
 More skills are added regularly. Browse the repository directories for the latest collection.
 
 ## How skills are structured
