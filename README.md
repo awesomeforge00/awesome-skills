@@ -21,6 +21,10 @@ Use these skills with AI coding assistants such as Claude Code, GitHub Copilot, 
 
 ## Skill Directory
 
+### Repository understanding
+
+- [Repository Explorer](repository-explorer/) — Understand an unfamiliar codebase, find the controlling code path, identify local conventions, and locate focused validation before editing.
+
 ### Planning and decision-making
 
 - [Co-Plan](coplan/) — Ask focused questions to stress-test a plan, decision, or technical choice before implementation.
