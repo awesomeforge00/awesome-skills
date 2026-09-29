@@ -29,6 +29,10 @@ Use these skills with AI coding assistants such as Claude Code, GitHub Copilot, 
 
 - [Co-Plan](coplan/) — Ask focused questions to stress-test a plan, decision, or technical choice before implementation.
 
+### Career development
+
+- [Job Search and Apply](job-search-and-apply/) — Find relevant roles based on a resume, provide direct application links, and save the shortlist to CSV for the user to review and apply.
+
 ### Python development
 
 - [Python Refactor & Standards](python-refactor-and-standards/) — Write and refactor Python code to be clean, safe, well-typed, and testable without changing behavior.
